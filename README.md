@@ -1,6 +1,8 @@
 # Simple WebSocket Server with Redis Pub/Sub
 
 This project implements a WebSocket server with Redis Pub/Sub functionality, allowing real-time communication across multiple server instances.
+![image](https://github.com/user-attachments/assets/5751c708-ac69-4a56-a4dc-0a1ec64709f1)
+
 
 ## Key Features
 
@@ -34,3 +36,6 @@ This project implements a WebSocket server with Redis Pub/Sub functionality, all
 
 
 This implementation provides a solid foundation for a scalable, real-time messaging system using WebSockets and Redis.
+
+
+
